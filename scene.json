@@ -1,0 +1,16 @@
+{
+  "children": [
+    {
+      "ref": "BASE_NODE"
+    },
+    {
+      "ref": "HULL_NODE"
+    },
+    {
+      "ref": "WHEELS_NODE"
+    },
+    {
+      "ref": "TURRET_NODE"
+    }
+  ]
+}
